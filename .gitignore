@@ -1,0 +1,9 @@
+.idea/
+.libs/
+
+*.la
+*.lo
+*.o
+*.slo
+
+*swp
